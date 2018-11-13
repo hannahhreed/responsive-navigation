@@ -78,6 +78,12 @@ nav a:hover {
     line-height: 1.5;
   }
 
+  header {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    text-align: left;
+  }
+
 }
 
 @media only screen and (min-width: 90em) {
